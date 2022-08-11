@@ -11,13 +11,13 @@
  
  ---
 
-- [REGRAS DO REPOSITORIO](D-RULES_REPO.md)
+- [REGRAS DO REPOSITORIO](https://github.com/Lumen-st/.github/blob/main/profile/D-RULES_REPO.md)
 
 - [COMO CONTRIBUIR EM PROJECTOS DA LUMEN](https://github.com/Lumen-st/.github/blob/main/profile/A-github.md)
 
-- [AUTOMATIZE OS SEUS DEPLOYS ](C-githubactions.md)
+- [AUTOMATIZE OS SEUS DEPLOYS ](https://github.com/Lumen-st/.github/blob/main/profile/C-githubactions.md)
 
-- [USE NOSSAS LIBS NPM ](A-github.md)
+- [USE NOSSAS LIBS NPM ](https://github.com/Lumen-st/.github/blob/main/profile/A-github.md)
 
 ---
 
