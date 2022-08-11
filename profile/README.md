@@ -13,7 +13,7 @@
 
 - [REGRAS DO REPOSITORIO](D-RULES_REPO.md)
 
-- [COMO CONTRIBUIR EM PROJECTOS DA LUMEN](A-github.md)
+- [COMO CONTRIBUIR EM PROJECTOS DA LUMEN](https://github.com/Lumen-st/.github/blob/main/profile/A-github.md)
 
 - [AUTOMATIZE OS SEUS DEPLOYS ](C-githubactions.md)
 
