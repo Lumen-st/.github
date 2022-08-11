@@ -11,13 +11,13 @@
  
  ---
 
-- [REGRAS DO REPOSITORIO](/doc/RULES_REPO.md)
+- [REGRAS DO REPOSITORIO](D-RULES_REPO.md)
 
-- [COMO CONTRIBUIR EM PROJECTOS DA LUMEN](/doc/A-github.md)
+- [COMO CONTRIBUIR EM PROJECTOS DA LUMEN](A-github.md)
 
-- [AUTOMATIZE OS SEUS DEPLOYS ](/doc/C-githubactions.md)
+- [AUTOMATIZE OS SEUS DEPLOYS ](C-githubactions.md)
 
-- [USE NOSSAS LIBS NPM ](/doc/A-github.md)
+- [USE NOSSAS LIBS NPM ](A-github.md)
 
 ---
 
