@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### Regras do Repositório | " Como Contribuir nos Projetos ".
 <!--
 
 **Here are some ideas to get you started:**
