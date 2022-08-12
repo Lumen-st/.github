@@ -11,3 +11,10 @@
 
  - Siga o repósitorio para mais estar dentro dos desafios e projectos;
 
+
+
+
+ ----
+<p align="center">
+   <img alt="E2E Test" src="foto.png">
+</p>
